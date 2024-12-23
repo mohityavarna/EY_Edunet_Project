@@ -101,5 +101,5 @@ Feel free to fork the repository and submit pull requests for any improvements.
 
 ## Author
 **Mohit Yavarna**
-- [LinkedIn Profile](https://www.linkedin.com/in/mohit-yavarna)
+- [LinkedIn Profile](https://www.linkedin.com/in/mohit-yavarna-967897264/)
 - [GitHub Profile](https://github.com/mohityavarna)
