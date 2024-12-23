@@ -57,8 +57,7 @@ Ensure you have the following installed:
 ---
 
 ## Screenshots
-![CollabTool Homepage](./path-to-your-screenshot.png)
-
+![Screenshot (389)](https://github.com/user-attachments/assets/440b092e-4c44-494f-8583-59e55b698e3e)
 ---
 
 ## Folder Structure
